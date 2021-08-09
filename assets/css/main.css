@@ -912,7 +912,7 @@ input, select, textarea {
 
 /* Mobile */
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 100%) {
 
 		/* Basic */
 
@@ -1020,7 +1020,7 @@ input, select, textarea {
 
 /* Mobile (Portrait) */
 
-	@media screen and (max-width: 480px) {
+	@media screen and (max-width: 100%) {
 
 		/* BG */
 
